@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Run workflow every 6 hours
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual trigger
 
@@ -15,6 +15,7 @@ jobs:
         uses: Platane/snk@v3.0.0
         with:
           github_user_name: webpro255
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Upload the output
       - name: Upload Snake Animation
