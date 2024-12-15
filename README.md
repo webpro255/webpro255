@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Snake Animation](https://github.com/webpro255/webpro255/blob/main/dist/snake.svg)
 
 <!--
 **webpro255/webpro255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
