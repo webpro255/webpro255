@@ -15,15 +15,14 @@ jobs:
         uses: Platane/snk@v3.0.0
         with:
           github_user_name: webpro255
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Upload the output
-      - name: Upload Snake Animation
+      # Step 2: Move the generated snake.svg to the dist folder
+      - name: Move Snake Animation
         run: |
           mkdir -p dist
           cp .github/contribution-snake.svg dist/snake.svg
 
-      # Step 3: Push the snake.svg to the repository
+      # Step 3: Commit and push the snake.svg to your profile repository
       - name: Commit and Push Snake
         uses: peaceiris/actions-gh-pages@v3
         with:
