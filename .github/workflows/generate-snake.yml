@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
+    # Run workflow every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual trigger
 
@@ -12,7 +12,7 @@ jobs:
     steps:
       # Step 1: Generate the snake animation
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: webpro255
 
