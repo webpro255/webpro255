@@ -10,19 +10,26 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate the snake animation
+      # Step 1: Debug: Print Environment Variables
+      - name: Print Debug Info
+        run: |
+          echo "Actor: ${{ github.actor }}"
+          echo "Repository: ${{ github.repository }}"
+          echo "Token Permissions: ${{ secrets.GITHUB_TOKEN }}"
+
+      # Step 2: Generate the snake animation
       - name: Generate Snake
         uses: Platane/snk@v3.0.0
         with:
           github_user_name: webpro255
 
-      # Step 2: Move the generated snake.svg to the dist folder
+      # Step 3: Move the output
       - name: Move Snake Animation
         run: |
           mkdir -p dist
           cp .github/contribution-snake.svg dist/snake.svg
 
-      # Step 3: Commit and push the snake.svg to your profile repository
+      # Step 4: Commit and Push
       - name: Commit and Push Snake
         uses: peaceiris/actions-gh-pages@v3
         with:
