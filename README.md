@@ -34,7 +34,7 @@ I believe in *progress over perfection*! My commits tell the story:
 
 ## ✨ Let's Connect!
 - 🌐 Website: [CyberAuditHQ](https://cyberaudithq.com) ComingSoon
-- 📹 YouTube: [Phish and Chips](https://www.youtube.com/@cyberaudithq)
+- 📹 YouTube: [CyberAuditHQ](https://www.youtube.com/@cyberaudithq)
 - 🐦 Twitter: [@webpro255](https://twitter.com/webpro255)
 
 ---
