@@ -1,37 +1,30 @@
-name: Generate Snake Animation
+name: Generate Snake Game Contribution Graph
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Debug: Print Environment Variables
-      - name: Print Debug Info
-        run: |
-          echo "Actor: ${{ github.actor }}"
-          echo "Repository: ${{ github.repository }}"
-          echo "Token Permissions: ${{ secrets.GITHUB_TOKEN }}"
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animation
-      - name: Generate Snake
-        uses: Platane/snk@v3.0.0
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
         with:
-          github_user_name: webpro255
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 3: Move the output
-      - name: Move Snake Animation
+      - name: Commit and push
         run: |
-          mkdir -p dist
-          cp .github/contribution-snake.svg dist/snake.svg
-
-      # Step 4: Commit and Push
-      - name: Commit and Push Snake
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "Generated new Snake Game contribution graph"
+          git push
