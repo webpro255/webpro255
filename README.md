@@ -1,5 +1,4 @@
 ## Hi there 👋
-![GitHub Contribution Snake](https://github.com/webpro255/webpro255/blob/main/dist/snake.svg)
 
 
 <!--
