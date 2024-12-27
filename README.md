@@ -21,7 +21,6 @@ Watch my contributions come alive as a snake eats the grid!
 
 I believe in *progress over perfection*! My commits tell the story:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=webpro255&theme=radical&hide_border=true)
 
 ---
 
