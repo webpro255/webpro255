@@ -29,8 +29,39 @@ I believe in *progress over perfection*! My commits tell the story:
 - 🌎 From old bulky servers to agile clouds, it’s been a journey.
 - 🕹️ Wife's Red shoes? Check. Baby blue suit? Double-check.
 
+💻 I recently created a **cool app** that uses AI to classify event logs. Check out the demo below!
+
 ---
 
+## 💻 I recently created a **cool app** that uses AI to classify event logs. Check out the demo below!
+
+---
+
+## 📹 **See My App in Action!**
+
+![Click to view the demo!](https://github.com/webpro255/Event-Log-AI/blob/main/vidss2.gif)
+
+
+---
+
+### 💬 **What Do You Think?**
+
+📝 Leave your comments and feedback below!  
+Should I continue developing this as a Windows program, or move on to something else?  
+Let’s make this project even better together! 🚀  
+
+➡️ Share your thoughts in the [**Discussion Section**](https://github.com/webpro255/Event-Log-AI/discussions)  
+💡 Found a bug or have an idea? Head to [**Issues**](https://github.com/webpro255/Event-Log-AI/issues)
+
+---
+
+### 🎉 Fun Facts About This Project:
+
+1. It uses **AI** to classify event logs and highlight anomalies.  
+2. Built using **Python** with an interactive GUI.  
+3. First-of-its-kind logger designed for cybersecurity enthusiasts!  
+
+---
 ## ✨ Let's Connect!
 - 🌐 Website: [CyberAuditHQ](https://cyberaudithq.com) ComingSoon
 - 📹 YouTube: [CyberAuditHQ](https://www.youtube.com/@cyberaudithq)
