@@ -6,8 +6,8 @@
 
 ## 🧑‍💻 About Me:
 - 🌟 Obsessed with cybersecurity, creative tech and cool tools.
-- 🛠️ Tinkering with tools, committing small victories, and learning along the way.
-- 🎮 Gamer by night, tech student by day.
+- 🛠️ Tinkering with tools, committing small victories and learning along the way.
+- 🎮 Gamer by night sometimes, tech student all the time.
 
 ---
 
