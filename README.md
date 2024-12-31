@@ -33,12 +33,10 @@ I believe in *progress over perfection*! My commits tell the story:
 2. Built using **Python** with an interactive GUI.  
 3. First-of-its-kind logger designed for cybersecurity enthusiasts!
 
-## 📹 **See it in Action!**
+## 📹 **Event Log with AI in Action!**
 <img src="https://github.com/webpro255/Event-Log-AI/blob/main/vidss2.gif" alt="Click to view the demo!" style="max-width: 100%; height: auto;">
 
----
-
-### 💬 **What Do You Think?**
+# 💬 **What Do You Think?**
 
 📝 Leave your comments and feedback below!  
 
@@ -46,8 +44,6 @@ Should I continue developing this as a Windows program or move on to something e
 
 ➡️ Share your thoughts in the [**Discussion Section**](https://github.com/webpro255/Event-Log-AI/discussions/1)  
 💡 Found a bug or have an idea? Head to [**Issues**](https://github.com/webpro255/Event-Log-AI/issues)
-
-
 
 ---
 ## ✨ Let's Connect!
