@@ -33,10 +33,9 @@ I believe in *progress over perfection*! My commits tell the story:
 2. Built using **Python** with an interactive GUI.  
 3. First-of-its-kind logger designed for cybersecurity enthusiasts!
 
----
 ## 📹 **See it in Action!**
+<img src="https://github.com/webpro255/Event-Log-AI/blob/main/vidss2.gif" alt="Click to view the demo!" style="max-width: 100%; height: auto;">
 
-![Click to view the demo!](https://github.com/webpro255/Event-Log-AI/blob/main/vidss2.gif)
 ---
 
 ### 💬 **What Do You Think?**
