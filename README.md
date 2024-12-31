@@ -44,7 +44,7 @@ I believe in *progress over perfection*! My commits tell the story:
 
 Should I continue developing this as a Windows program or move on to something else?  
 
-➡️ Share your thoughts in the [**Discussion Section**][**Discussions**](https://github.com/webpro255/Event-Log-AI/discussions/1)  
+➡️ Share your thoughts in the [**Discussion Section**](https://github.com/webpro255/Event-Log-AI/discussions/1)  
 💡 Found a bug or have an idea? Head to [**Issues**](https://github.com/webpro255/Event-Log-AI/issues)
 
 
