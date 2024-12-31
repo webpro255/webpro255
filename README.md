@@ -37,11 +37,16 @@ I believe in *progress over perfection*! My commits tell the story:
 
 ---
 
-## 📹 **See My App in Action!**
+## 🎉 Fun Facts About This Project:
+
+1. It uses **AI** to classify event logs and highlight anomalies.  
+2. Built using **Python** with an interactive GUI.  
+3. First-of-its-kind logger designed for cybersecurity enthusiasts!
+
+---
+## 📹 **See the Windows Events Logs App in Action!**
 
 ![Click to view the demo!](https://github.com/webpro255/Event-Log-AI/blob/main/vidss2.gif)
-
-
 ---
 
 ### 💬 **What Do You Think?**
@@ -53,13 +58,7 @@ Let’s make this project even better together! 🚀
 ➡️ Share your thoughts in the [**Discussion Section**](https://github.com/webpro255/Event-Log-AI/discussions)  
 💡 Found a bug or have an idea? Head to [**Issues**](https://github.com/webpro255/Event-Log-AI/issues)
 
----
 
-### 🎉 Fun Facts About This Project:
-
-1. It uses **AI** to classify event logs and highlight anomalies.  
-2. Built using **Python** with an interactive GUI.  
-3. First-of-its-kind logger designed for cybersecurity enthusiasts!  
 
 ---
 ## ✨ Let's Connect!
