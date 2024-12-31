@@ -30,11 +30,6 @@ I believe in *progress over perfection*! My commits tell the story:
 - 🕹️ Wife's Red shoes? Check. Baby blue suit? Double-check.
 
 💻 I recently created a **cool app** that uses AI to classify event logs. Check out the demo below!
-
----
-
-## 💻 I recently created a **cool app** that uses AI to classify event logs. Check out the demo below!
-
 ---
 
 ## 🎉 Fun Facts About This Project:
