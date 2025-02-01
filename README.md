@@ -14,15 +14,12 @@
 ## 🔥 GitHub Highlights
 
 🐍 **GitHub Snake Game**  
+
 Watch my contributions come alive as a snake eats the grid!
+I believe in *progress over perfection*! My commits tell the story:
 ![GitHub Snake Game](./dist/github-snake.svg)
 
-🎯 **Commit-Streak Stats**
-
-I believe in *progress over perfection*! My commits tell the story:
-
 ## 🎉 Fun Facts About Me:
-- 🎧 I jam to 90s hip-hop and R&B while coding.
 - 🌎 From old bulky servers to agile clouds, it’s been a journey.
 - 🕹️ Wife's Red shoes? Check. Baby blue suit? Double-check.
 
