@@ -22,6 +22,13 @@ I believe in *progress over perfection*! My commits tell the story:
 ## 🎉 Fun Facts About Me:
 - 🌎 From old bulky servers to agile clouds, it’s been a journey.
 - 🕹️ Wife's Red shoes? Check. Baby blue suit? Double-check.
+- 💻 Skilled in CMS, databases, Linux and a huge fan of cybersecurity.
+- 🎮 Cybersecurity enthusiast working on various CTF (Capture the Flag) challenges and projects.
+- 🌐 Have my own web hosting experience with webhostingthunder.com (pre-cloud era!).
+- 🎓 Working on certifications like CompTIA certs , isc2 and HacktheBox Certs
+- 🐦 From networking to pen-testing, I’ve always been fascinated by tech’s limitless potential.
+- 🤖 Currently building a Quantum Breach Team for CTFs.
+
 
 ---
 💻 I recently created a **interesting app** that uses AI to classify event logs. 
